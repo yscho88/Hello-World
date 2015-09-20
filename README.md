@@ -1,2 +1,3 @@
 # Hello-World
-first project
+
+first project and repository on GitHub
